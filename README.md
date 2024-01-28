@@ -1,6 +1,6 @@
 # minishell
 
-This project involves sorting data on a stack, with a limited set of instructions, and the smallest number of moves.
+This project is about creating a simple shell. Yes, your own little bash.
 
 ## Resources
 
